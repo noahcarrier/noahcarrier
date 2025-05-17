@@ -26,7 +26,7 @@
 
 🔗 [View Full Key](https://pastebin.com/raw/piKXxy3G)
 ✅ Commits are signed and verified.
-
+👆🏼 Fingerprint: 4226 47FE DD60 A933 A8F4  64BA 2F10 819C B779 0E79
 
 ## 🛠️ Tech Stack
 
